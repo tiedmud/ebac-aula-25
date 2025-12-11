@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form-container {
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    padding: 10px;
+}
+
+section form {
+    padding: 10px;
+}
+
+body {
+}
